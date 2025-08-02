@@ -3,6 +3,7 @@ TODO APP - FRONTEND
 Prerequisites:
 1. Nodejs(v18 or higher)
 2. npm
+3. MySQL
    
 
 
