@@ -5,7 +5,8 @@ Prerequisites:
 2. npm
    
 
-## Getting Started
+
+
 
 1. Clone and install the dependencies:
    
@@ -22,6 +23,15 @@ Prerequisites:
 5. Open browser in local:
 
    http://localhost:3000 ( If port 3000 is busy , then it would automatically run in 3001)
+
+
+## Repo structure
+
+app/page.tsx - Homepage with task list, create button, and task management
+
+app/create/page.tsx - Create new task form page
+
+app/edit/[id]/page.tsx - Edit existing task form page (dynamic route)
    
 
 
