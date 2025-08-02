@@ -10,19 +10,19 @@ Prerequisites:
 
 1. Clone and install the dependencies:
    
-   git clone https://github.com/suveda/todo-frontend.git
+   `git clone https://github.com/suveda/todo-frontend.git`
    
-   cd todo-frontend
+   `cd todo-frontend`
    
-   npm install
+   `npm install`
 
 3. Start the dev server:
    
-   npm run dev
+   `npm run dev`
 
 5. Open browser in local:
 
-   http://localhost:3000 ( If port 3000 is busy , then it would automatically run in 3001)
+   `http://localhost:3000` ( If port 3000 is busy , then it would automatically run in 3001)
 
 
 ## Repo structure
